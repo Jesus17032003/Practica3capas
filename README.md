@@ -103,7 +103,7 @@ Y también le asignaremos las siguienres reglas de grupo:
 
 Comprobamos que podemos acceder al sitio web, en modo no seguro, ahora para acceder al modo seguro tendremos que añadirle un dominio
 
-Crearemos la base de datos dentro del wordpress
+Conectamos con la base de datos dentro del wordpress
 
 ![image](https://github.com/user-attachments/assets/51baf8ef-b826-4e60-b86f-f88f638fa668)
 
