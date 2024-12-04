@@ -50,6 +50,18 @@ Script de aprovisionamiento para la base de datos:
 
 **-Creación de la VPC:**
 
+Primero crearemos una VPC con la dirección 192.168.10.0/24, la VPC dispondrá de dos subredes privadas.
+
+![Captura de pantalla 2024-12-03 195335](https://github.com/user-attachments/assets/b97a86fc-ca8c-4581-8a34-cc7247cb7c2c)
+
+![Captura de pantalla 2024-12-03 195344](https://github.com/user-attachments/assets/d1cc0dfd-5c23-44f2-9e59-270c29ff4607)
+
+Vemos que la VPC se ha creado correctamente con las dos subredes:
+
+![Captura de pantalla 2024-12-03 195629](https://github.com/user-attachments/assets/77c98f8b-d9e0-4a2f-82e9-9f6e12f6cf17)
+
+
+
 **-Creación de las instancias**
 
 **-Comprobación**
