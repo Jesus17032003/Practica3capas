@@ -84,6 +84,9 @@ Y también le asignaremos las siguienres reglas de grupo:
 
 ### **-Comprobación**
 
+Comprobamos que podemos acceder al sitio web, en modo no seguro, ahora para acceder al modo seguro tendremos que añadirle un dominio
+
+![Captura de pantalla 2024-12-04 213228](https://github.com/user-attachments/assets/fc0ca817-b91f-44d4-bf30-0d2b6c79756b)
 
 
 
