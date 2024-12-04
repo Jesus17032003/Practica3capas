@@ -64,6 +64,24 @@ Vemos que la VPC se ha creado correctamente con las dos subredes:
 
 **-Creación de las instancias**
 
+A continuación vamos a mostrar como se crea una instancia, las demás, se crearan de la misma manera, aunque en la segunda capa, las instancias dispondrán de otros grupos de seguridad,y otras reglas de grupos; además de que tendran otra subred, ya que estas necesitan tener una conexión con la base de datos; vamos a mostrar como creamos el balanceador:
+
+![Captura de pantalla 2024-12-03 200100](https://github.com/user-attachments/assets/d514b7fd-58a5-449f-9cbf-fd5cbb791439)
+
+Le asginamos unas claves de seguridad:
+
+![Captura de pantalla 2024-12-03 200342](https://github.com/user-attachments/assets/f7728745-d3cb-44ea-aa5e-3328e1c131c6)
+
+Al balanceador le asignaremos una subred pública
+
+![Captura de pantalla 2024-12-04 121431](https://github.com/user-attachments/assets/2e0e22da-8b99-4167-abce-5321e9483928)
+
+Y también le asignaremos las siguienres reglas de grupo:
+
+![Captura de pantalla 2024-12-04 121541](https://github.com/user-attachments/assets/ff4cfa20-4cd4-4a81-ad71-f54ba8cc3e52)
+
+
+
 **-Comprobación**
 
 
