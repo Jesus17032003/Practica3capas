@@ -63,6 +63,11 @@ Este script configura un servidor MySQL y prepara una base de datos para WordPre
 
 ### **-HTTPS y dominio público**
 
+Para tener acceso mediante https necesitaremos crear un dominio; en mi caso será el siguiente.
+
+![image](https://github.com/user-attachments/assets/4a1219f8-f313-463a-87f2-578542e8c02b)
+
+
 ## 4.**Proceso de despliegue**
 
 ### **-Creación de la VPC:**
@@ -113,5 +118,10 @@ Hay que comentar que a pesar de que la carpeta esta montada y esta puesta en el 
 ![Captura de pantalla 2024-12-04 213228](https://github.com/user-attachments/assets/fc0ca817-b91f-44d4-bf30-0d2b6c79756b)
 
 ![image](https://github.com/user-attachments/assets/8e28921c-78f8-4620-9462-b37d128392ae)
+
+Y este sería el resultado con el sitio en modo seguro a pesar de que no funciona el CSS.
+
+![image](https://github.com/user-attachments/assets/23d654c1-8965-434e-bad1-3c8906768b24)
+
 
 
