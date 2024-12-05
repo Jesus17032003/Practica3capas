@@ -110,5 +110,6 @@ Conectamos con la base de datos dentro del wordpress
 
 ![Captura de pantalla 2024-12-04 213228](https://github.com/user-attachments/assets/fc0ca817-b91f-44d4-bf30-0d2b6c79756b)
 
+![image](https://github.com/user-attachments/assets/8e28921c-78f8-4620-9462-b37d128392ae)
 
 
