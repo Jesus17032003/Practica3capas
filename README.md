@@ -105,6 +105,8 @@ Comprobamos que podemos acceder al sitio web, en modo no seguro, ahora para acce
 
 Conectamos con la base de datos dentro del wordpress
 
+Hay que comentar que a pesar de que la carpeta esta montada y esta puesta en el fstab para que se monte al apagar aws hay algunas veces que si se mantiene montada, y hay algunas que no se mantiene montada, a pesar de que esta bien configurado el fstab
+
 ![image](https://github.com/user-attachments/assets/51baf8ef-b826-4e60-b86f-f88f638fa668)
 
 
